@@ -1,0 +1,3 @@
+".\Objects\doorlock.obj" 
+TO ".\Objects\DOOR LOCK" 
+PRINT(".\Listings\DOOR LOCK.m51")
